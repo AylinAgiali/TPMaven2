@@ -46,7 +46,7 @@
  
 <scm>
 <connection>scm:svn:svn://IPSERVEUR/repository1/monappli-web</connection>
- <url>scm:git:https://github.com/AylinAgiali/TPMaven</url>
+ <url>scm:git:https://github.com/AylinAgiali/TPMaven2</url>
 </scm>
 
 
